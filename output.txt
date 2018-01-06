@@ -1,0 +1,7 @@
+Bithumb Public API URI('/public/ticker') Request...
+- Status Code: 0000
+- Opening Price: 21400000
+- Closing Price: 24721000
+- Sell Price: 24763000
+- Buy Price: 24761000
+
